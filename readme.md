@@ -1,7 +1,7 @@
 
 # Sentiment Analysis with Bag of Words and VADER
 
-This project performs sentiment analysis on user reviews using two different approaches: Bag of Words and VADER (Valence Aware Dictionary and sEntiment Reasoner).
+This project performs sentiment analysis on user reviews using two different approaches: Bag of Words and VADER (Valence Aware Dictionary and Sentiment Reasoner).
 
 ## Files:
 
@@ -38,7 +38,3 @@ This project performs sentiment analysis on user reviews using two different app
 4. After analysis, both scripts will create a new CSV file named `analyzed_user_reviews.csv` containing the analyzed user reviews along with their predicted sentiments.
 
 5. Additionally, both scripts will generate a pie chart visualizing the distribution of sentiments among the user reviews. The pie chart will be displayed in the console.
-
-## Files:
-
-- **requirements.txt**: This file lists all the dependencies required by the project. You can install them using `pip install -r requirements.txt`.
